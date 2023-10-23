@@ -11,6 +11,6 @@ plotting: Provides various plotting and visualization functions to show the resu
 interfaces: The interfaces for the two algorithms (EpsilonGreedy and ThompsonSampling).
 results: Here, there are the results of the two algorithms (EpsilonGreedy and ThompsonSampling) kept in CSV files.
 
-# I have also used pyment for documentation.
+I have also used pyment for documentation.
 
-# For design improvements and more in-depth information, please refer to the design-improvement-design.md or the pdf file with the same name.
+For design improvements (bonus part) and more in-depth information, please refer to the design-improvement-design.md or the pdf file with the same name.
